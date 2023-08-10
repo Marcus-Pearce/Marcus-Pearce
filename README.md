@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/mrpearce92/OsTicket-Prerequisites-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/mrpearce92/Post-Install-OsTicket)
+  - [osTicket: Prerequisites and Installation](https://github.com/Marcus-Pearce/OsTicket-Prerequisites-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/Marcus-Pearce/Post-Install-OsTicket)
 - <b>Microsoft Azure</b>
 
-  - [Active Directory: Configuring On-premises Active Directory within Azure VMs](https://github.com/mrpearce92/AD-Installation-Config)
+  - [Active Directory: Configuring On-premises Active Directory within Azure VMs](https://github.com/Marcus-Pearce/AD-Installation-Config)
  
     
 
